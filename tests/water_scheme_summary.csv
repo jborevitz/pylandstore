@@ -1,0 +1,6 @@
+structure,elev_m_ahd,storage_m3,catchment_ha,filling
+"Eva's pond, 5 m dam",962.3,1008,85.8,gravity
+"low tank, 3 m, 35% grade",976.5,386,0.02,gravity from 1007.7 m intake
+"your point, 3 m, 20% grade",1144.4,675,0.03,"pumped, 168 m lift"
+"main bench, 3 m, 5.2% grade",1177.4,1950,,"pumped, 201 m lift"
+"main bench, 4 m, 5.2% grade",1177.4,3625,,"pumped, 201 m lift"
